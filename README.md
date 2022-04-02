@@ -5,6 +5,8 @@
 **We need to find out Customer's purchasing behaviour, that which type of customers are fond of which flavour and brand of chips, which type of customers are the major buyers
 of chips, and which one are less fond of buying chips.**
 
+## https://public.tableau.com/views/Project-1_16485524851200/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+
 ## Task-2 (Problem Statement)
 **Layout of arrangement of products is changed in 3 stores during Feb-2019 to April-2019, and we need to find out that what was the effect on performance of these stores because 
 of change in layout during the trial-period.**
