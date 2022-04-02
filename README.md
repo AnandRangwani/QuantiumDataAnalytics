@@ -1,10 +1,14 @@
 # Quantium Data Analytics Virtual Experience program
 
+## Overall Sales Visualization
+## https://public.tableau.com/views/LearningDemo_16479397727150/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+
 ## Task-1 (Problem Statement)
 **The Data given contains transactions that ocurr between July-2018 to June-2019 from different stores and by different category of customers.**
 **We need to find out Customer's purchasing behaviour, that which type of customers are fond of which flavour and brand of chips, which type of customers are the major buyers
 of chips, and which one are less fond of buying chips.**
 
+## Customer purchasing Behaviour
 ## https://public.tableau.com/views/Project-1_16485524851200/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Task-2 (Problem Statement)
