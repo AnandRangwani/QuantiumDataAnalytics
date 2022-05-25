@@ -15,7 +15,7 @@ of change in layout during the trial-period.**
 trial stores during the pre-trial period (July-2018 to Jan-2019). Now we compare performace of Trial stores and their respective Control stores during the trial period, and based 
 on that comparision we conclude that whether change in layout turned out to be profitable or not.**
 ### Visual Comparison between Trial Stores and Control Stores.
-### https://public.tableau.com/shared/CMWH8843D?:display_count=n&:origin=viz_share_link
+### https://public.tableau.com/app/profile/anand.rangwani/viz/TrialStoresVsControlStores/Story2?publish=yes
 
 
 ## Task-3 (Problem Statement)
